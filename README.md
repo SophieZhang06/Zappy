@@ -140,7 +140,7 @@ Several upcoming start-ups in this region are beginning to develop AI-based serv
 +++++ 
 Contact US
 
-n United States:
+In United States:
 Please contact Kathleen Tran, CEO and Founder, directly with any questions or inquiries you may have about your loved one's needs for dementia care and how we may be of assistance. 
 
 Zappy Co. - QUEST FOR SERVICE
