@@ -15,6 +15,7 @@ Kathleen Tran, BScN, MHSc, is CEO and Founder of Zappy Co.  Kathleen has spent w
 
 +++++
 Private Rehabilitation Center
+
 //img1.wsimg.com/isteam/ip/05b90314-ea58-474c-a000-91ea33bb5996/3DF730E500000578-0-image-m-12_1488671270755.jpg/:/rs=w:1300,h:800
 //img1.wsimg.com/isteam/ip/05b90314-ea58-474c-a000-91ea33bb5996/TELEMMGLPICT000168106341_trans_VnGZDHLVb-0001.jpeg/:/rs=w:1300,h:800
 //img1.wsimg.com/isteam/ip/05b90314-ea58-474c-a000-91ea33bb5996/20150117_dementiarobot_japannews.jpg/:/rs=w:1300,h:800
@@ -35,12 +36,14 @@ Continue Reading
 October 2, 2019
 
 Importance of Global Safety Standards for Nursing Care Robots
+
 https://www.aist.go.jp/aist_j/press_release/pr2019/pr20190520/pr20190520.html
 
 Continue Reading
 September 30, 2019
 
 World Economic Forum on Trillion Dollar Global Dementia Crisis
+
 https://www.weforum.org/agenda/2017/09/dementia-trillion-dollar-global-crisis/
 
 Continue Reading
